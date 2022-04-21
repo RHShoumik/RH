@@ -59,6 +59,14 @@ p {
   width: 20%;
   float: right;
   margin-left: 30px;
+}
+.wp-description {
+  text-align: justify;
+}
+.js-description {
+  text-align: justify;
+}
+.wp {
   text-align: end;
 }
 .intro {
